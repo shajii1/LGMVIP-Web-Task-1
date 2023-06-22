@@ -1,0 +1,35 @@
+# To-Do List Web App
+
+This is a simple web application that allows you to manage your to-do list. You can add tasks, mark them as completed, clear completed tasks, save your task list, and load a saved task list.
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+## Getting Started
+
+Clone the repository:
+
+Open the `index.html` file in a web browser.
+
+## Usage
+
+- Enter a task in the input field and press Enter or click the "Add Task" button to add it to the list.
+- Click the checkbox next to a task to mark it as completed. Completed tasks will be visually distinguished.
+- To clear completed tasks from the list, click the "Clear Completed" button.
+- Use the "Save List" button to save the current task list to the browser's local storage.
+- To load a previously saved task list, click the "Load List" button.
+
+## Customization
+
+Feel free to modify the styles and colors of the web app by editing the `styles.css` file to match your preferences.
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
